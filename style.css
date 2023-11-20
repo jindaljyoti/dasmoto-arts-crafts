@@ -1,0 +1,28 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+h1 {
+    color: seagreen;
+}
+
+.blog li {
+    color:seagreen;
+    font-weight: bold;
+    list-style: square;
+}
+
+p {
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+    color: seagreen;
+}
+
+a:hover {
+    color: olive;
+}
